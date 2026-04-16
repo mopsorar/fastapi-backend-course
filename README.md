@@ -21,3 +21,4 @@ git clone git@github.com:gardiys/fastapi-backend-course.git
 - [ ] [Урок 9: Деплой сервисов](./services_deploy/)
 - [ ] [Урок 10: Отказоустойчивость](./fault_tolerance/)
 - [ ] [Урок 11: Мониторинг](./monitoring/)
+# )
